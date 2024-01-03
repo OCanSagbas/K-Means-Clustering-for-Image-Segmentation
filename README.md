@@ -30,3 +30,5 @@ produce cluster labels for each superpixel.
   Details
 Your program will take an color or gray level image and cluster number as input and produce
 segmentation result like in Figure 1-c,1-d.
+
+![image](https://github.com/OCanSagbas/K-Means-Clustering-for-Image-Segmentation/assets/73585899/779496ec-3afc-46fc-ad6b-c6509c9a44e3)
